@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark -->
+    <color name="background_dark">#121318</color>
+    <color name="block_dark">#2A2E38</color>
+    <color name="black_dark">#000000</color>
+    <color name="border_dark">#3A3F4C</color>
+    <color name="button_dark">#DE7C3E</color>
+    <color name="button_inactive_dark">#CD7B45</color>
+    <color name="icon_dark">#F6F7FB</color>
+    <color name="text_dark">#C8CDDE</color>
+    <color name="text_secondary_dark">#B4BAC6</color>
+    <color name="hint_dark">#7E8491</color>
+    <color name="accent_dark">#7193F0</color>
+    <color name="error_dark">#F27872</color>
+
+    <!-- Light -->
+    <color name="background_light">#F9F6EC</color>
+    <color name="block_light">#FFEFD9</color>
+    <color name="black_light">#FFFFFF</color>
+    <color name="border_light">#CBB89F</color>
+    <color name="button_light">#FF9C5A</color>
+    <color name="button_inactive_light">#A55C2E</color>
+    <color name="icon_light">#23201C</color>
+    <color name="text_light">#433E36</color>
+    <color name="text_secondary_light">#7A726A</color>
+    <color name="hint_light">#B1A79C</color>
+    <color name="accent_light">#4A77D9</color>
+    <color name="error_light">#E06355</color>
+</resources>

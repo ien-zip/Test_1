@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Nunito font family -->
+    <style name="NunitoFontLight">
+        <item name="fontFamily">@font/nunito_light</item>
+    </style>
+    <style name="NunitoFontExtraLight">
+        <item name="fontFamily">@font/nunito_extralight</item>
+    </style>
+    <style name="NunitoFontBold">
+        <item name="fontFamily">@font/nunito_bold</item>
+    </style>
+    <style name="NunitoFontMedium">
+        <item name="fontFamily">@font/nunito_medium</item>
+    </style>
+    <style name="NunitoFontRegular">
+        <item name="fontFamily">@font/nunito_regular</item>
+    </style>
+
+    <!-- Text styles according to screenshot -->
+    <style name="Text.Headline.Bold" parent="NunitoFontBold">
+        <item name="android:textSize">32sp</item>
+    </style>
+    <style name="Text.Headline24.Medium" parent="NunitoFontMedium">
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="Text.Headline22.Medium" parent="NunitoFontMedium">
+        <item name="android:textSize">22sp</item>
+    </style>
+    <style name="Text.Headline20.ExtraLight" parent="NunitoFontExtraLight">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="Text.Line18.Medium" parent="NunitoFontMedium">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Text.Line18.Light" parent="NunitoFontLight">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Text.Line16.Medium" parent="NunitoFontMedium">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="Text.Line16.Light" parent="NunitoFontLight">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="Text.Line14.Medium" parent="NunitoFontMedium">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="Text.Line14.Light" parent="NunitoFontLight">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="Text.Line12.Regular" parent="NunitoFontRegular">
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="Text.Line11.Medium" parent="NunitoFontMedium">
+        <item name="android:textSize">11sp</item>
+    </style>
+
+
+
+</resources>
